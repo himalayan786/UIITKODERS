@@ -1,0 +1,35 @@
+application: uiitkoders
+version: 13
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /
+  script: home.app
+- url: /uiitkoders_quotes\.html
+  script: quotes.app
+- url: /uiitkoders_sponsors\.html
+  script: sponsors.app
+- url: /uiitkoders_initiatives\.html
+  script: initiatives.app
+- url: /uiitkoders_team\.html
+  script: team.app
+- url: /uiitkoders_gallery\.html
+  script: gallery.app
+- url: /uiitkoders_contacts\.html
+  script: contacts.app
+- url: /uiitkoders_contributors\.html
+  script: contributors.app
+- url: /kunalsharma
+  script: kunal.app
+- url: /.*
+  script: faltu.app
+
+libraries:
+- name: webapp2
+  version: "2.5.2"
+- name: jinja2
+  version: "2.6"

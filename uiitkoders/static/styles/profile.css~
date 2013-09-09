@@ -1,0 +1,147 @@
+/*---Template Profile design started---*/
+body
+{
+width:100%;height:100%;
+padding:0px;
+margin:0px;
+font-family: "AGaramondAlt Italic", Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', Cambria, serif;;
+line-height:1.5;
+font-size:105%;
+cursor:default;
+}
+/*----------Kunal Sharma ---------*/
+/*-  profile header-*/
+#profile_header{top:0px;width:100%;position:fixed;background:#000;height:30px;overflow:hidden;}
+#profile_header #header_menu{width:80%;margin-left:auto;margin-right:auto;overflow:hidden;}
+#profile_header #header_menu table{float:right;overflow:hidden;width:30%;text-align:center;height:100%;}
+#profile_header #header_menu table a{text-decoration:none;color:#fff;font-weight:bold;}
+#profile_header #header_menu table a:hover{color:#ff2727;}
+/*-  profile body-  1dc2ff #0088ba*/
+#profile_body_home{overflow:hidden;height:100%;background:#03e5cd;}
+#profile_body_home #content{margin-left:auto;margin-right:auto;width:80%;height:100%;padding:5px;margin-top:30px;overflow:hidden;}
+
+/*-  profile body home-*/
+#profile_body_home #content #home{overflow:hidden;padding-top:5px;padding-bottom:150px;height:100%;}
+
+#profile_body_home #content #home #left {float:left;width:60%;overflow:hidden;}
+#profile_body_home #content #home #left #top {width:99%;overflow:hidden;height:140px;}
+#profile_body_home #content #home #left #top #table1{float:left;width:20%;text-align:center;height:100%;}
+#profile_body_home #content #home #left #top #table2{float:left;width:73%;text-align:center;padding:5px;height:100%;}
+#profile_body_home #content #home #left #top .icon_img{height:120px;width:98%;padding:7px;background:#fff;
+-moz-border-radius: 65px;-webkit-border-radius: 65px;border-radius: 65px;}
+#profile_body_home #content #home #left #top .icon_img:hover{height:120px;width:98%;background:#fff;
+-moz-border-radius: 65px;-webkit-border-radius: 65px;border-radius: 65px;}
+
+#profile_body_home #content #home #left #middle {width:100%;overflow:hidden;}
+#profile_body_home #content #home #left #middle table{width:75%;padding:5px;margin-left:auto;margin-right:auto;
+color:#000;font-weight:bold;font-size:90%;}
+
+#profile_body_home #content #home #left #bottom {width:95%;margin-left:auto;margin-right:auto;overflow:hidden;color:#fff;margin-top:5px;}
+#profile_body_home #content #home #left #bottom #header{width:100%;text-align:center;}
+#profile_body_home #content #home #left #bottom .lower{width:33%;float:left;text-align:center;font-weight:bold;}
+#profile_body_home #content #home #left #bottom .icon_img{height:160px;width:85%;border:2px solid #000;-moz-border-radius: 25px;-webkit-border-radius: 25px;border-radius: 25px;}
+#profile_body_home #content #home #left #bottom .icon_img:hover{border:2px solid #fff;}
+
+
+#profile_body_home #content #home #right{float:right;width:40%;overflow:hidden;}
+/*   Making of slider */
+#profile_body_home #content #home #right_top{height:250px;width:100%;overflow:hidden;text-align:center;margin-bottom:10px;}
+#profile_body_home #content #home #right_top img{display:none;}
+#profile_body_home #content #home #right_top #slider_img{width:92%;height:95%;-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;background:#fff;padding:5px;}
+#profile_body_home #content #home #right_top .is_showing{display:inline;}
+
+#profile_body_home #content #home #right_bottom{width:100%;overflow:hidden;}
+#profile_body_home #content #home #right_bottom #strengths{display:block;font-size:110%;text-align:center;font-weight:bold;}
+#profile_body_home #content #home #right_bottom ul{}
+
+/*-  profile body academics-*/
+#profile_body_academics{overflow:hidden;height:100%;background:#ffdc01;}
+#profile_body_academics #content{margin-left:auto;margin-right:auto;width:80%;height:100%;padding:5px;margin-top:30px;overflow:hidden;}
+#profile_body_academics #content #academics{overflow:hidden;padding-bottom:150px;}
+.aca_top_img{width:40px; height:40px;}
+
+/* common to academics and skills starts*/
+#roles{width:100%;font-size:120%;font-weight:bold;margin-left:auto;margin-right:auto;
+text-align:center;padding-top:2px;padding-bottom:2px;}
+/* common to academics and skills closed*/
+
+/*-  profile body Skills-  background:#4f4500;*/
+#profile_body_skills{overflow:hidden;height:100%;width:100%;background: url('../profile/bg_aca2.png') repeat-x;}
+#profile_body_skills #content{margin-left:auto;margin-right:auto;width:80%;height:100%;padding:5px;margin-top:30px;overflow:hidden;}
+#profile_body_skills #content #skills{overflow:hidden;padding-top:5px;padding-bottom:150px;}
+#profile_body_skills #content #skills #left{overflow:hidden;width:50%;float:left;padding:2px;}
+#profile_body_skills #content #skills #text_div{float:left;width:15%;}
+#profile_body_skills #content #skills #container_div{float:left;width:80%;border:2px solid #fff;}
+#profile_body_skills #content #skills #fill_div{height:20px;background:#1e90ff;display:block;color:#000;overflow:hidden;
+height:100%;}
+#profile_body_skills #content #skills #right{overflow:hidden;width:45%;float:right;padding:2px;}
+#profile_body_skills #content #skills #title{color:#e2e7ea;width:100%;text-align:center;font-size:115%;font-weight:bold;}
+
+/*-  profile body Projects- url('../profile/bg_skills.jpg')  #edf0f2 #8003d7*/
+#profile_body_projects{overflow:hidden;height:100%;width:100%;background: #667e8e;}
+#profile_body_projects #content{margin-left:auto;margin-right:auto;width:80%;height:100%;padding:5px;margin-top:30px;overflow:hidden;}
+#profile_body_projects #content #projects{overflow:hidden;padding-top:5px;padding-bottom:150px;}
+#profile_body_projects #content #projects #left{overflow:hidden;width:33%;float:left;}
+#profile_body_projects #content #projects #middle{overflow:hidden;width:33%;float:left;margin-left:5px;}
+#profile_body_projects #content #projects #right{overflow:hidden;width:33%;float:right;}
+
+#profile_body_projects #content #projects #project_box{width:90%;margin:0 auto;border:1px solid #fff;background:#e2e7ea;
+-webkit-box-shadow: 0px 0px 10px #fff;-moz-box-shadow: 0px 0px 10px #fff;box-shadow:0px 0px 10px #fff;margin-bottom:20px;}
+#profile_body_projects #content #projects #project_box #title {padding-top:5px;padding-bottom:5px;font-weight:bold;border-bottom:1px solid #fff;text-align:center;}
+#profile_body_projects #content #projects #project_box #image {padding-top:5px;padding-bottom:5px;font-weight:bold;border-bottom:1px solid #fff;text-align:center;}
+#profile_body_projects #content #projects #project_box #image img{width:95%;height:200px;}
+#profile_body_projects #content #projects #project_box #technologies {padding:5px;border-bottom:1px solid #fff;}
+#profile_body_projects #content #projects #project_box span {font-weight:bold;color:#002459;padding-right:5px;}
+#profile_body_projects #content #projects #project_box #description {padding:5px;border-bottom:1px solid #fff;}
+#profile_body_projects #content #projects #project_box #links {padding:5px;text-align:center;font-weight:bold;}
+#profile_body_projects #content #projects #project_box #links a {text-decoration:none;color:#002459;padding-right:10px;}
+#profile_body_projects #content #projects #project_box #links a:hover {color:#000;}
+
+
+/*-  profile body Achievements- #3f4944  background: url('../profile/bg_skills.jpg');padding:0;margin: 0 auto;position:absolute;height:650px;background-position: 50%;*/
+#profile_body_achievements{overflow:hidden;width:100%;background: url('../profile/skills101.png');background-position: 50% 50%;height:100%;}
+#profile_body_achievements #content{margin-left:auto;margin-right:auto;width:80%;height:100%;padding:5px;margin-top:30px;overflow:hidden;}
+#profile_body_achievements #content #achievements{overflow:hidden;padding-top:5px;padding-bottom:150px;}
+#profile_body_achievements #content #achievements #left{overflow:hidden;width:48%;float:left;padding:2px;}
+#profile_body_achievements #content #achievements #right{overflow:hidden;width:48%;float:right;padding:2px;}
+#profile_body_achievements #content #achievements #show_box{width:95%;margin:0 auto;border:1px solid #000;background:#e2e7ea;font-size:105%;
+-webkit-box-shadow: 0px 0px 10px #fff;-moz-box-shadow: 0px 0px 10px #fff;box-shadow:0px 0px 10px #fff;margin-bottom:20px;}
+#profile_body_achievements #content #achievements #show_box #title {padding-top:5px;padding-bottom:5px;font-weight:bold;border-bottom:1px solid #000;
+text-align:center;font-size:115%;}
+
+/*-  profile body Contact- e2e7ea background: #3f4944;*/
+#profile_body_contacts{overflow:hidden;width:100%;background: url('../profile/bg_awards.jpg') no-repeat;height:100%;background-position:50%;margin:0 auto;padding:0;z-index:-100;position:absolute;}
+#profile_body_contacts #content{margin-left:auto;margin-right:auto;width:80%;height:100%;padding:5px;overflow:hidden;}
+#profile_body_contacts #content #contacts{overflow:hidden;padding-top:5px;margin-top:30px;padding-bottom:450px;}
+#profile_body_contacts #content #contacts #left{overflow:hidden;width:48%;float:left;padding:2px;}
+#profile_body_contacts #content #contacts #left #contact_box{width:98%;margin:0 auto;background:#15002f;color:#fff;-webkit-box-shadow: 0px 0px 10px #999;-moz-box-shadow: 0px 0px 10px #999;box-shadow:0px 0px 10px #999;margin-top:20px;overflow:hidden;border:1px solid #000;}
+#profile_body_contacts #content #contacts #left #contact_box #container{display:block;border:2px solid #fff;overflow:hidden;-moz-border-radius: 25px;-webkit-border-radius: 25px;border-radius: 25px;margin:5px;}
+#profile_body_contacts #content #contacts #left #contact_box #container #left{float:left;width:35%;padding:5px;font-weight:bold;font-size:120%;text-align:center;}
+#profile_body_contacts #content #contacts #left #contact_box #container #right{float:left;width:58%;padding:5px;font-weight:bold;font-size:120%;text-align:left;}
+
+#profile_body_contacts #content #contacts #right{overflow:hidden;width:48%;float:right;padding:2px;}
+#profile_body_contacts #content #contacts #right #contact_box{width:98%;overflow:hidden;padding-top:10px;}
+#profile_body_contacts #content #contacts #right #contact_box #container{display:block;overflow:hidden;margin:5px;}
+#profile_body_contacts #content #contacts #right #contact_box #container #left{float:left;width:49%;text-align:center;}
+#profile_body_contacts #content #contacts #right #contact_box #container #right{float:left;width:49%;text-align:center;}
+#profile_body_contacts #content #contacts #right #contact_box #container img{height:100px width:100px;opacity:0.8;}
+#profile_body_contacts #content #contacts #right #contact_box #container img:hover{opacity:0.5;}
+#profile_body_contacts a{text-decoration:none;}
+
+
+/*-  profile footer-*/
+#profile_footer{bottom:0px;width:100%;position:fixed;overflow:hidden;margin-left:auto;margin-right:auto;background:#000;}
+#profile_footer #footer_content{height:100%;overflow:hidden;bottom:0px;width:79%;margin-left:auto;margin-right:auto;overflow:hidden;color:#fff;font-size:90%;-moz-border-radius: 25px;-webkit-border-radius: 25px;border-radius: 25px;}/*    ff9d01       */
+#profile_footer #footer_content table{width:80%;margin-left:auto;margin-right:auto;text-align:center;overflow:hidden;}
+#profile_footer #footer_content table a{text-decoration:none;}
+#profile_footer #footer_content a img{width:70px;height:70px;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out; 
+-o-transition: all 0.5s ease-in-out; 
+-ms-transition: all 0.5s ease-in-out;}
+#profile_footer #footer_content img:hover{background:; }
+
+
+
+
+

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="/static/images/uiitkoders_favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<title>UIITKODERS: UIIT Shimla</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="Description" content="UIITKODERS-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Technology Partner- Virscent Technology |
+					Learning Partner- CodePlaza |
+					 UIITKODERS is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />
+	<meta name="keywords" content="uiitkoders, UIITKoders,UIITKODERS,  uiit koders, UIIT Shimla,Training and Placement Cell UIIT Shimla, 
+			Placements UIIT Shimla,Training UIIT Shimla, Placements UIIT, UIIT,University Institute of Information Technology,HPU,
+			Himachal Pradesh University,Summerhill,Shimla,Simla" />
+	<meta property="og:description"  content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Technology Partner- Virscent Technology |
+					Learning Partner- CodePlaza |
+					UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />	
+	<meta property="og:url" content="http://www.uiitkoders.appspot.com/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Technology Partner- Virscent Technology |
+					Learning Partner- CodePlaza |
+					UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />
+	<link rel="stylesheet" type="text/css" href="/static/styles/main.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+</head>
+<body style="">
+	<img id="" src="/static/images/uiitkoders_hpulogo.png" alt="UIITKoders"
+	 style="display:none;"><!-- added for image on link upload-->
+	<div id="upper_menu">
+		<div id="header_menu" style="">
+			<div id="left">
+				<table id="" style="height:100%;font-weight:bold;">
+					<tr>
+						<td>Welcome UIITian!!!</td>
+					</tr>
+				</table>
+			</div>
+			<div id="right" style="">
+				<table id="" style="width:100%;height:100%;overflow:hidden;">
+					<tr>
+						<td style=""><a href="http://www.hpuniv.in/" target="blank">About HPU</a></td>
+						<td><a href="http://www.hpuiitshimla.org/" target="blank">UIIT</a></td>
+						<td><a href="/uiitkoders_contributors.html" style="">Contributors</a></td>
+						<td><a href="/uiitkoders_quotes.html">Quotes</a></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+	<div id="body_wrapper" style="overflow:hidden;"><!--start of body-->
+		<!-- Header Started  -->
+		<div id="logo_header" style="">
+			<div id="left"><!--  left header start-->
+				<table style="">
+					<tr style="">
+						<td id="logo_upper">
+							<a style="" href="/">
+								UIITKoders
+							</a>
+						</td>
+					</tr>				
+				</table>
+			</div><!-- left header closed  -->
+			<div id="right" align="jusitfy"><!-- right header start  -->
+				<table style="">
+					<tr style="">
+						<td style="font-weight:bold;font-size:105%;" align="jusitfy">
+							"Largest Programming Community in Himachal Pradesh, India"
+						</td>
+					</tr>
+				</table>
+			</div>	<!-- right header closed  -->		
+		</div>
+		<!-- header closed  -->	
+		<!-- body content started-->	
+		<div id="body_content" style="overflow:hidden;">
+			<div id="top" style="">
+				<div id="top_left" style="">
+					<img id="slider_img" src="/static/gallery/uiitkoders6.jpg" height="" class="is_showing" 
+						width="" alt="UIITKoders" style=""/>
+					<img id="slider_img" src="/static/gallery/uiitkoders7.jpg" height="" 
+						width="" alt="UIITKoders" style=""/>
+					<img id="slider_img" src="/static/gallery/uiitkoders9.jpg" height="" 
+						width="" alt="UIITKoders" style=""/>
+				</div>
+<!--------------------------------------->
+<script type="text/javascript">
+$(document).ready(function(){
+	slideShow();
+});
+function slideShow(){
+	var showing=$("#top_left .is_showing");
+	var next=showing.next().length ? showing.next() : showing.parent().children(":first");
+/*	if(showing.next().length){showing.next();}
+	else{next=showing.parent().children(":first");}*/
+	showing.fadeOut(600, function(){next.fadeIn(600).addClass("is_showing");}).removeClass("is_showing");
+	setTimeout(slideShow, 4000);
+}
+</script>
+<!--------------------------------------->
+				<div id="right">
+					<table>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_initiatives.html" title="Our Initiatives">We & Our Initiatives
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_gallery.html" title="Gallery">Gallery
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_team.html" title="Team">Team
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_contacts.html" title="Join Us">Join Us
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_sponsors.html" title="Sponsor Us">Sponsors
+							</a>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div id="bottom" style="margin-bottom:5px;">
+				<div id="left">
+					<div id="left_heading" style="">
+					<img src="/static/images/1.gif" height="" width="">
+						Student-Join @UIITKoders
+					<img src="/static/images/1.gif" height="" width="">
+					</div>
+					<div id="left_content" style="color:#280a0a;font-weight:650;" align="justify">
+					<span style="color:#660000;font-weight:bold;">
+					If you are not a student at University Institute of Information Technology Shimla,
+					UIITKoders want to bring to your kind notice that this registration is not for you.</span><br>
+					<p style="color:#1e90ff;font-weight:bold;">
+					Hey UIITian!Why should you join UIITKoders?</p>
+					<ul style="">
+						<li>
+						To rejunate the geek present in you.	 
+						</li>
+						<li>
+						To bring latest techologies to your desk directly.
+						</li>
+						<li>
+						To assess and build your technical and non-technical skills.
+						</li>
+						<li>
+						To enhance the learning environment of UIIT Shimla.
+						</li>
+						<li>
+						To meet and work with the technology leaders of India.
+						</li>
+						<li>
+						To build entrepreneurship skills.
+						</li>
+						<li>
+						To win/participate in World - Level Programming Competitions.
+						</li>
+						<li>
+						To lead UIIT Shimla and become part of various workshops to be organized by UIITKoders.
+						</li>
+						<li>
+						And an opportunity to become part of UIITKoders- 
+						'Largest Programming Community of Himachal Pradesh'.
+						</li>
+					</ul>
+					<p style="color:#1e90ff;font-weight:bold;">
+					Conditions for joining UIITKoders-</p>
+					<ul style="">
+						<li>
+						If you join UIITKoders, 
+							only then you'll be considered eligible for any awards/prizes/goodies/certificates
+							from the side of UIITKoders or our Partners.
+						</li><br>
+						<li>
+						If we find you indulged in any activity against the principles of UIITKoders, any of 
+						our Partners/Sponsors, in code plagiarism or disobeying the 
+							<a href="http://discuss.codechef.com/questions/18662/does-codechef-have-any-code-of-conduct"
+								style="text-decoration:none;color:#8003d7" 
+								title="Code-of-Conduct" target="blank">Code-of-Conduct<a>  of CodeChef and
+						HackerRank, you will no longer remain the part of UIITKoders and no notice will be given to
+						you in this regard. Please note that Campus Team UIITKoders will not accept any query in any
+						such case. You will be permanently banned by UIITKoders as well as all our partners in such cases.
+						</li><br>
+						<li>
+						Any decision taken by Dr. Dhirendra Sharma, Faculty Advisor UIITKoders and 
+						Campus Team UIITKoders 
+						will be final in all cases. And no such query will be either accepted or processed.
+						</li><br>
+					</ul>
+					<p style="color:#1e90ff;font-weight:bold;">
+					Are you ready now to become part of UIITKoders?
+					<a id="joining_link" href="https://docs.google.com/forms/d/1vL3nbjKuzncr3qGTq_UHUmDUqKTnq2k9wc5p7xc1JSE/"
+						style="" 
+						title="Registration" target="blank">Register with us now<a></p></p>
+					</div><!-- div left_content closed-->
+				</div><!--left closed -->
+				<div id="right" style="">
+					<div id="right_heading" style="">
+						Title - Partners
+					</div>
+					<div id="right_content" style="" align="justify">
+						<table id="partners">
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.codechef.com/" target="blank"
+								 title="CodeChef">
+								<img id="codechef" src="/static/images/uiitkoders_codecheflogo.png" alt="CodeChef"
+								style="">
+								</a>
+								</td>
+							</tr>
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.hackerrank.com/" target="blank"
+								 title="Hackerrank">
+								<img id="hackerrank" src="/static/images/uiitkoders_hr.png" alt="Hackerrank"
+								style="">
+								</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div id="right_heading" style="">
+						Technology-Partner
+					</div>
+					<div id="right_content" style="" align="justify">
+						<table id="partners">
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.virscent.com/" target="blank"
+								 title="Virscent">
+								<img id="virscent" src="/static/images/uiitkoders_virscentlogo.png" alt="Virscent"
+								style="">
+								</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div id="right_heading" style="">
+						Learning-Partner
+					</div>
+					<div id="right_content" style="" align="justify">
+						<table id="partners">
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.codeplaza.org/" target="blank"
+								 title="CodePlaza">
+								<img id="codeplaza" src="/static/images/uiitkoders_codeplaza.png" alt="CodePlaza"
+								style="">
+								</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div><!--div right closed -->
+			</div><!-- bottom div closed -->
+		</div><!-- body content closed -->
+	</div><!--close of body wrapper-->
+	<div id="footer" style="">
+		<div id="footer_content" style="">
+			<table style="float:left;text-align:center;">
+				<tr>
+				<td>
+					<img src="http://hitwebcounter.com/counter/counter.php?			
+					page=4969643&style=0038&nbdigits=5&type=page&initCount=100" title="uiitkoders counters" 
+					Alt="page views"   border="0" >
+				</td>
+			</tr>
+			</tabel>
+			<table style="width:30%;float:right;text-align:center;">
+				<tr>
+					<td style="">
+						<a href="/" title="Home">
+						<img id="home" src="/static/images/uiitkoders_homeico.png" alt="Home" 
+							height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="/uiitkoders_initiatives.html" title="About Us">
+						<img id="about_us" src="/static/images/uiitkoders_aboutico.gif" alt="About Us" 
+							height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="/uiitkoders_contacts.html" title="Contact">
+						<img id="email" src="/static/images/uiitkoders_email.png" alt="Contacts" 
+								height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="https://www.facebook.com/pages/UIITKoders/126803550852059/" target="blank" title="Facebook">
+						<img id="facebook" src="/static/images/uiitkoders_facebook.png" alt="Facebook" 
+							height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="https://twitter.com/UIITKoders" target="blank" title="Twitter">
+						<img id="twitter" src="/static/images/uiitkoders_twitter.png" alt="Twitter" 
+							height="" width=""></a>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<table style="width:100%;text-align:center;">
+			<tr>
+				<td style="">&copy;2013 All rights reserved with UIITKoders
+				</td>
+			</tr>
+		</table>
+	</div>
+
+<!------------------------------------------------------------------------------------------->
+<div id="webutation-badge">
+<script type="text/javascript">
+(function() {
+window.domain = 'uiitkoders.appspot.com';
+function async_load(){
+ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+ var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+ s.src = p+'www.webutation.net/js/load_badge.js';
+ var x = document.getElementById('webutation-link'); x.parentNode.insertBefore(s, x); }
+if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
+})();
+</script>
+</div>
+
+<div id="webutation-pixelbadge">
+<script type="text/javascript">
+(function() {
+window.domain = 'uiitkoders.appspot.com';
+function async_load(){
+ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+ var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+ s.src = p+'www.webutation.net/js/load_pixelbadge.js';
+ var x = document.getElementById('webutation-pixelbadge-link'); x.parentNode.insertBefore(s, x); }
+if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
+})();
+</script>
+<!--
+<a id="webutation-pixelbadge-link"  href="http://www.webutation.net/go/review/uiitkoders.appspot.com">uiitkoders.appspot.com Webutation</a>
+-->
+</div>
+<!------------------------------------------------------------------------------------------->
+
+
+</body>
+</html>
+<!----------First Version was designed on 24 June, 2013 -->

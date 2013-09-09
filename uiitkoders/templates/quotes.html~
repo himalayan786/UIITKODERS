@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="/static/images/uiitkoders_favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<title>UIITKoders: UIIT Shimla</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="Description" content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Technology Partner- Virscent Technology |
+					Learning Partners- CodePlaza |
+					 UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />
+	<meta name="keywords" content="uiitkoders, UIITKoders,  uiit koders, UIIT Shimla,Training and Placement Cell UIIT Shimla, 
+			Placements UIIT Shimla,Training UIIT Shimla, Placements UIIT, UIIT,University Institute of Information Technology,HPU,
+			Himachal Pradesh University,Summerhill,Shimla,Simla" />
+	<meta property="og:description"  content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Technology Partner- Virscent Technology |
+					Learning Partners- CodePlaza |
+					UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />	
+	<meta property="og:url" content="http://www.uiitkoders.appspot.com/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Technology Partner- Virscent Technology |
+					Learning Partners- CodePlaza |
+					UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />
+	<link rel="stylesheet" type="text/css" href="/static/styles/main.css">
+</head>
+<body style="">
+	<img id="" src="/static/images/uiitkoders_hpulogo.png" alt="UIITKoders" style="display:none;"><!-- added for image on link upload-->
+	<div id="upper_menu">
+		<div id="header_menu" style="">
+			<div id="right" style="">
+				<table id="" style="width:100%;height:100%;overflow:hidden;">
+					<tr>
+						<td style=""><a href="http://www.hpuniv.in/" target="blank">About HPU</a></td>
+						<td><a href="http://www.hpuiitshimla.org/" target="blank">UIIT</a></td>
+						<td><a href="/uiitkoders_contributors.html" style="">Contributors</a></td>
+						<td><a href="/uiitkoders_quotes.html"
+							 style="color:#ff2727;">Quotes</a></td>
+					<tr>
+				</table>
+			</div>
+		</div>
+	</div>
+	<div id="body_wrapper" style="overflow:hidden;"><!--start of body-->
+		<!-- Header Started  -->
+		<div id="logo_header" style="">
+			<div id="left"><!--  left header start-->
+				<table style="">
+					<tr style="">
+						<td id="logo_upper">
+							<a style="" href="/">
+								UIITKoders
+							</a>
+						</td>
+					</tr>				
+				</table>
+			</div><!-- left header closed  -->
+			<div id="right" align="jusitfy"><!-- right header start  -->
+				<table style="">
+					<tr style="">
+						<td style="" align="jusitfy">
+							"problem solving is the best way of learning programming-languages, <br>
+							 data structures and algorithms" - UIITKoders
+						</td>
+					</tr>
+				</table>
+			</div>	<!-- right header closed  -->		
+		</div>
+		<!-- header closed  -->	
+		<!-- body content started-->	
+		<div id="body_content" style="overflow:hidden;">
+			<div id="top" style="">
+				<div id="left" style="">
+					<img id="" src="/static/gallery/uiitkoders2.jpg" height="" 
+						width="" alt="UIITKoders" style=""/>
+				</div>
+				<div id="right">
+					<table>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_initiatives.html" title="Our Initiatives">We & Our Initiatives
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_gallery.html" title="Gallery">Gallery
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_team.html" title="Team">Team
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_contacts.html" title="Join Us">Join Us
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_sponsors.html" title="Sponsor Us">Sponsors
+							</a>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<div id="bottom" style="margin-bottom:5px;">
+				<div id="left">
+					<div id="left_heading" style="">
+						Quotes
+					</div>
+					<div id="left_content" style="" align="justify">
+					<div id="team"><!-- taken to cause hover effect on gallery images -->
+					<table id="" style="">
+						<tr style="">
+							<td style="width:25%;" align="justify">
+								<img src="/static/images/uiitkoders_dean.jpg" height="130" width="130"
+								style="">
+							</td>
+							<td id="" style="width:70%;line-height:1.5;" align="justify">
+							"I sincerely appreciate this initiative of 
+							<span style="color:#8003d7;font-weight:bold;">Kunal Sharma</span>, 
+							Founder and Campus Representative  
+							<a href="/" title="UIITKoders"
+								style="text-decoration:none;color:#8003d7;font-weight:bold;">UIITKoders</a>.
+							I hope this community will work actively toward the development of progamming skills 
+							of all students of UIIT.
+							I wish all the very best to team UIITKoders". <br> -
+							<span style="color:#660000;font-weight:bold;">Dr. Neeraj Sharma, Dean Faculty of 								Engineering and Technology, HP University Shimla</span>
+							</td>
+						</tr>
+					</table>
+					<table id="" style="margin-top:10px;">
+						<tr style="">
+							<td style="width:70%;line-height:1.5;" align="justify">
+							"I thank all our partners, associates and sponsors for 
+							encouraging and helping us in bulding this community.
+							 I'm quite sure that UIITKoders will enhance programming 
+							environment of UIIT Shimla and will help us to generate professional coders.
+							I wish all the best for the bright future of UIITKoders.
+							<br> -
+							<span style="color:#660000;font-weight:bold;">
+								 Dr. Dhirendra Sharma, Faculty Advisor UIITKoders
+							 and Incharge Networking/Placements, HP University Shimla</span>
+							</td>
+							<td id="" style="width:25%;text-align:center;" align="justify">
+								<a href="http://hpuiitshimla.org/Faculty/dhirendra.html"  target="blank"
+										style="text-decoration:none;">
+								<img src="/static/images/uiitkoders_advisor.jpg" height="130" width="130"
+								style="">
+								</a>
+							</td>
+						</tr>
+					</table>
+					<table id="" style="margin-top:10px;">
+						<tr style="">
+							<td style="width:25%;" align="justify">
+							<a href="http://hpuiitshimla.org/Faculty/balvirsingh.html"  target="blank"
+										style="text-decoration:none;">
+								<img src="/static/images/uiitkoders_faculty.jpg" height="130" width="130"
+								style="">
+							</a>
+							</td>
+							<td id="" style="width:70%;line-height:1.5;" align="justify">
+							"I congratulate all UIITians, UIITKoders team and specially
+							<span style="color:#8003d7;font-weight:bold;">Kunal Sharma</span>, 
+							Founder and Campus Representative of 
+							<a href="/" target="blank" title="UIITKoders"
+								style="text-decoration:none;color:#8003d7;font-weight:bold;">UIITKoders</a> for the
+							start of UIITKoders. I encourage campus team to 
+							embrace their freedom in order to maintain and develop programming community
+							of UIIT Shimla.<br> -
+							<span style="color:#660000;font-weight:bold;"> Mr. Balbir Singh Thakur, Faculty 								IT/CSE, UIIT Shimla
+							</td>
+						</tr>
+					</table>
+					</div><!-- taken to cause hover effect-->
+					</div>	
+				</div>
+				<div id="right" style="">
+					<div id="right_heading" style="">
+						Title - Partners
+					</div>
+					<div id="right_content" style="" align="justify">
+						<table id="partners">
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.codechef.com/" target="blank"
+								 title="CodeChef">
+								<img id="codechef" src="/static/images/uiitkoders_codecheflogo.png" alt="CodeChef"
+								style="">
+								</a>
+								</td>
+							</tr>
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.hackerrank.com/" target="blank"
+								 title="Hackerrank">
+								<img id="hackerrank" src="/static/images/uiitkoders_hr.png" alt="Hackerrank"
+								style="">
+								</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div id="right_heading" style="">
+						Technology-Partner
+					</div>
+					<div id="right_content" style="" align="justify">
+						<table id="partners">
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.virscent.com/" target="blank"
+								 title="Virscent">
+								<img id="virscent" src="/static/images/uiitkoders_virscentlogo.png" alt="Virscent"
+								style="">
+								</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<div id="right_heading" style="">
+						Learning-Partner
+					</div>
+					<div id="right_content" style="" align="justify">
+						<table id="partners">
+							<tr>
+								<td id="" style="">
+								<a style="text-decoration:none;" href="http://www.codeplaza.org/" target="blank"
+								 title="CodePlaza">
+								<img id="codeplaza" src="/static/images/uiitkoders_codeplaza.png" alt="CodePlaza"
+								style="">
+								</a>
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div><!--div right closed -->
+			</div><!-- bottom div closed -->
+		</div><!-- body content closed -->
+	</div><!--close of body wrapper-->
+	<div id="footer" style="">
+		<div id="footer_content" style="">
+			<table style="float:left;text-align:center;">
+				<tr>
+				<td>
+					<img src="http://hitwebcounter.com/counter/counter.php?			
+					page=4969643&style=0038&nbdigits=5&type=page&initCount=100" title="uiitkoders counters" 
+					Alt="page views"   border="0" >
+				</td>
+			</tr>
+			</tabel>
+			<table style="width:30%;float:right;text-align:center;">
+				<tr>
+					<td style="">
+						<a href="/" title="Home">
+						<img id="home" src="/static/images/uiitkoders_homeico.png" alt="Home" 
+							height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="/uiitkoders_initiatives.html" title="About Us">
+						<img id="about_us" src="/static/images/uiitkoders_aboutico.gif" alt="About Us" 
+							height="" width=""></a>
+					</td>
+						<td style="">
+						<a href="/uiitkoders_contacts.html" title="Contact">
+						<img id="email" src="/static/images/uiitkoders_email.png" alt="Contacts" 
+								height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="https://www.facebook.com/pages/UIITKoders/126803550852059/" target="blank" title="Facebook">
+						<img id="facebook" src="/static/images/uiitkoders_facebook.png" alt="Facebook" 
+							height="" width=""></a>
+					</td>
+					<td style="">
+						<a href="https://twitter.com/UIITKoders" target="blank" title="Twitter">
+						<img id="twitter" src="/static/images/uiitkoders_twitter.png" alt="Twitter" 
+							height="" width=""></a>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<table style="width:100%;text-align:center;">
+			<tr>
+				<td style="">&copy;2013 All rights reserved with UIITKoders
+				</td>
+			</tr>
+		</table>
+	</div>
+
+<!------------------------------------------------------------------------------------------->
+<div id="webutation-badge">
+<script type="text/javascript">
+(function() {
+window.domain = 'uiitkoders.appspot.com';
+function async_load(){
+ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+ var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+ s.src = p+'www.webutation.net/js/load_badge.js';
+ var x = document.getElementById('webutation-link'); x.parentNode.insertBefore(s, x); }
+if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
+})();
+</script>
+</div>
+
+<div id="webutation-pixelbadge">
+<script type="text/javascript">
+(function() {
+window.domain = 'uiitkoders.appspot.com';
+function async_load(){
+ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+ var p = ('https:' == document.location.protocol ? 'https://' : 'http://');
+ s.src = p+'www.webutation.net/js/load_pixelbadge.js';
+ var x = document.getElementById('webutation-pixelbadge-link'); x.parentNode.insertBefore(s, x); }
+if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);
+})();
+</script>
+<!--
+<a id="webutation-pixelbadge-link"  href="http://www.webutation.net/go/review/uiitkoders.appspot.com">uiitkoders.appspot.com Webutation</a>
+-->
+</div>
+<!------------------------------------------------------------------------------------------->
+
+
+</body>
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>UIITKoders: A CodeChef Chapter</title>
+	<link rel="stylesheet" type="text/css" href="/static/styles/main.css">
+</head>
+<body style="">
+	<div id="header_menu" style="width:100%;">
+		<div style="width:20%;margin-left:10%;float:left;">
+			<table id="" style="width:100%;height:100%;">
+				<tr>
+					<td><a href="#">Welcome!!!</a></td>
+				<tr>
+			</table>
+		</div>
+		<div style="width:25%;margin-right:12%;float:right;overflow:hidden;">
+		<table id="" style="width:100%;height:100%;float:right;">
+			<tr>
+				<td><a href="http://www.hpuiitshimla.org/" target="blank">About UIIT</a></td>
+				<td><a href="/uiitkoders_contributors.html">Contributors</a></td>
+				<td><a href="/uiitkoders_testimonials.html" style="text-decoration:line-through;">Testimonials</a></td>
+			<tr>
+		</table>
+		</div>
+	</div>
+	<div id="body_wrapper" style=""><!--start of body-->
+		<div id="header" style=""><!-- Header Started  -->
+			<div id="left_header"><!--  left header start-->
+				<table style="height:100%;">
+					<tr style="height:100%;">
+						<td id="logo_upper">
+							<a style="text-decoration:none;color:inherit;" href="/">
+								UIITKoders
+							</a>
+						</td>
+					</tr>
+					<tr style="height:100%;text-align:center;font-size:90%;">
+						<td id="">
+							<a style="text-decoration:none;color:inherit;" href="/">
+								"the bakers of crispy codes"
+							</a>
+						</td>
+					</tr>					
+				</table>
+			</div><!-- left header closed  -->
+			<div id="right_header"><!-- right header start  -->
+				<table style="height:100%;float:right;overflow:hidden;">
+					<tr style="">
+						<td>A Joint initiative of</td>
+						<td>
+							<a style="text-decoration:none;" href="http://www.hpuiitshimla.org/" target="blank">
+							<img src="/static/images/uiitkoders_hpulogo.png" height="80" width="80" alt="UIIT Shimla">
+							</a>
+						</td>
+						<td>And</td>
+						<td>
+							<a style="text-decoration:none;" href="http://www.codechef.com/" target="blank">
+								<img id="codechef" src="/static/images/uiitkoders_codecheflogo.png" alt="CodeChef">
+							</a>
+						</td>
+					</tr>
+				</table>
+			</div>	<!-- right header closed  -->		
+		</div><!-- header closed  -->
+		<div id="body_content"><!-- body content started for upper body-->
+			<div id="upper_body"> 
+				<div id="left_box" style="">
+					<img src="/static/gallery/uiitkoders4.jpg" height="300" width="" alt="UIITKoders" style="width:100%;
+ 						-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;">
+				</div>
+				<div id="right_box" style="">
+					<table>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_initiatives.html" title="Our Initiatives">Our Initiatives
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_gallery.html" title="Gallery">Gallery
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_team.html" title="Team">Team
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_contacts.html" title="Join Us">Join Us
+							</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+							<a id="others" href="/uiitkoders_sponsors.html" title="Sponsor Us">Sponsors
+							</a>
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<div id="body_content" style="border:5px solid #c4c4c4;"><!-- body content started for lower body-->
+			<div id="lower_body" style="width:100%;overflow:hidden;"><!--lower body box started-->
+				<div id="left_box" style="">
+					<table id="uiitkoders_latest" style="width:100%;height:100%;">
+						<tr style="">
+							<td id="left_heading" style="">Quotes
+							</td>
+						</tr>
+					</table>
+					<table id="uiitkoders_latest_content" style="width:100%;height:100%;margin-top:5px;">
+						<tr style="">
+							<td style="width:25%;" align="justify">
+								<img src="/static/images/uiitkoders_dean.jpg" height="100" width="100"
+								style="-moz-border-radius: 55px;border-radius: 55px;border:5px solid #d8d8d8;">
+							</td>
+							<td id="" style="width:70%;line-height:1.5;" align="justify">
+							"I sincerely appreciate this initiative of 
+							<a href="http://codechef.com" target="blank" title="CodeChef"
+								style="text-decoration:none;color:#1e90ff;">CodeChef.com</a> and 
+							<span style="color:#1e90ff;">Kunal Sharma</span>, 
+							Founder and Campus Representative of 
+							<a href="/" target="blank" title="UIITKoders"
+								style="text-decoration:none;color:#1e90ff;">UIITKoders</a>.
+							I wish all the very best to UIITKoders". <br> -
+							<span style="color:#660000;font-weight:bold;">Dr. Neeraj Sharma, Dean Faculty of 								Engineering and Technology, HP University Shimla</span>
+							</td>
+						</tr>
+					</table>
+					<table id="uiitkoders_latest_content" style="width:100%;height:100%;margin-top:25px;">
+						<tr style="">
+							<td style="width:70%;line-height:1.5;" align="justify">
+							"I thank
+							<a href="http://codechef.com" target="blank" title="CodeChef"
+								style="text-decoration:none;color:#1e90ff;">CodeChef.com</a> for
+							starting CodeChef Chapter - UIITKoders. I assure you that I'll do all my best for
+							support of UIITKoders and wish all the best for the bright future of UIITKoders.
+							<br> -
+							<span style="color:#660000;font-weight:bold;">
+								 Dr. Dhirendra Sharma, Faculty Advisor UIITKoders
+							 and Incharge Networking/Placements, HP University Shimla</span>
+							</td>
+							<td id="" style="width:25%;text-align:center;" align="justify">
+								<img src="/static/images/uiitkoders_advisor.jpg" height="100" width="100"
+								style="-moz-border-radius: 55px;border-radius: 55px;border:5px solid #d8d8d8;">
+							</td>
+						</tr>
+					</table>
+					<table id="uiitkoders_latest_content" style="width:100%;height:100%;margin-top:25px;">
+						<tr style="">
+							<td style="width:25%;" align="justify">
+								<img src="/static/images/uiitkoders_faculty.jpg" height="100" width="100"
+								style="-moz-border-radius: 55px;border-radius: 55px;border:5px solid #d8d8d8;">
+							</td>
+							<td id="" style="width:70%;line-height:1.5;" align="justify">
+							"I congratulate all UIITians, UIITKoders team and specially
+							<span style="color:#1e90ff;">Kunal Sharma</span>, 
+							Founder and Campus Representative of 
+							<a href="/" target="blank" title="UIITKoders"
+								style="text-decoration:none;color:#1e90ff;">UIITKoders</a> for the
+							start of CodeChef Chapter - UIITKoders. This initiative of
+							<a href="http://codechef.com" target="blank" title="CodeChef"
+								style="text-decoration:none;color:#1e90ff;">CodeChef.com</a> will surely 
+							enhance the programming environment UIIT Shimla.					
+							I wish all the very best to UIITKoders". <br> -
+							<span style="color:#660000;font-weight:bold;"> Er. Balbir Singh Thakur, Faculty UIIT Shimla
+							</td>
+						</tr>
+					</table>
+				</div>
+				<div id="right_box" style="">
+					<table id="uiitkoders_upcomings" style="height:100%;width:100%;">
+						<tr>
+							<td id="upcomings_heading" style="text-align:center;">
+								Social Networks
+							</td>
+						</tr>
+					</table>
+					<table id="uiitkoders_social" style="height:100%;float:right;width:60%;margin-top:20px;">
+						<tr>
+							<td style="">
+							<a href="https://www.facebook.com/pages/UIITKoders/126803550852059/" target="blank">
+							<img src="/static/images/uiitkoders_facebook.png" alt="UIITKoders@Facebook"></a>
+							</td>
+							<td style="">
+							<a href="" target="blank">
+							<img src="/static/images/uiitkoders_twitter.png" alt="UIITKoders@Twitter"></a>
+							</td>
+							<td style="">
+							<a href="/uiitkoders_gallery.html" target="blank">
+							<img src="/static/images/uiitkoders_gallery.png" alt="Gallery"></a>
+							</td>
+							<td style="">
+							<a href="/uiitkoders_contacts.html" target="blank">
+							<img src="/static/images/uiitkoders_email.png"></a>
+							</td>
+						</tr>
+					</table>	
+				</div><!-- close of right box-->
+			</div><!-- lower body box closed -->
+		</div><!-- close of body content -->
+	</div><!--close of body-->
+	<div id="footer" style="">
+		<table style="width:30%;margin-right:10%;padding:1%;float:right;text-align:center;">
+			<tr>
+				<td>
+					<a href="/" title="Home" style="text-decoration:none;">Home</a>
+				</td>
+				<td>
+				<a href="uiitkoders_contacts.html" title="Contact Us" style="text-decoration:none;">Contact Us</a>
+				</td>
+				<td>
+					<a href="uiitkoders_gallery.html" title="Gallery" style="text-decoration:none;">Gallery</a>
+				</td>
+				<td>
+					<a href="uiitkoders_initiatives.html" title="Our Initiatives" 
+					style="text-decoration:none;">Other Initiatives</a>
+				</td>
+			</tr>
+		</table>
+		<table style="width:100%;text-align:center;">
+			<tr>
+				<td style="color:#c4c4c4;">&copy;2013 All rights reserved with UIITKoders
+				</td>
+			</tr>
+		</table>
+	<div>
+</body>
+<html>
+<!--   -->	

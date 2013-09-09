@@ -1,0 +1,47 @@
+
+		<div id="footer_menu"><!-- footer menu started -->
+			<table style="">
+				<tr>
+					<td>
+						<a href="/uiitkoders_contacts.html" title="Contact">
+						<img src="/static/images/profile_mail11.png" alt="Contacts" 
+								height="" width=""></a>
+					</td>
+					<td>
+						<a href="https://www.facebook.com/pages/UIITKoders/126803550852059/" target="blank" title="Facebook">
+						<img src="/static/images/profile_facebook11.png" alt="Facebook" 
+							height="" width=""></a>
+					</td>
+					<td>
+						<a href="https://twitter.com/UIITKoders" target="blank" title="Twitter">
+						<img src="/static/images/profile_twitter11.png" alt="Twitter" 
+							height="" width=""></a>
+					</td>
+					<td>
+						<a href="https://twitter.com/UIITKoders" target="blank" title="Google+">
+						<img src="/static/images/profile_google11.png" alt="Google+" 
+							height="" width=""></a>
+					</td>
+					<td>
+						<a href="https://twitter.com/UIITKoders" target="blank" title="Google+">
+						<img src="/static/images/profile_linkedin11.png" alt="Google+" 
+							height="" width=""></a>
+					</td>
+				</tr>
+			</table>
+		</div><!-- footer menu closed -->
+
+Example Profile Template:-
+1) http://joomlatemplate.joomlashack.com/?template=academic&path=/
+2) http://www.webeffectual.com/#about
+3) https://about.me/
+
+Management Skills-
+1) http://resumizer.com/resume_skills_examples.htm
+
+
+
+IconFinder.com
+http://www.iconfinder.com/icondetails/81058/128/mail_mb_sent_icon
+http://www.iconfinder.com/icondetails/10548/256/mail_telephone_icon
+http://www.iconfinder.com/icondetails/99140/128/live_mail_icon

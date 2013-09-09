@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href="/static/images/uiitkoders_favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<title>UIITKoders: UIIT Shimla</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="Description" content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Learning Partners- CodePlaza |
+					 UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />
+	<meta name="keywords" content="uiitkoders, UIITKoders,  uiit koders, UIIT Shimla,Training and Placement Cell UIIT Shimla, 
+			Placements UIIT Shimla,Training UIIT Shimla, Placements UIIT, UIIT,University Institute of Information Technology,HPU,
+			Himachal Pradesh University,Summerhill,Shimla,Simla" />
+	<meta property="og:description"  content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Learning Partners- CodePlaza | 
+					UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />	
+	<meta property="og:url" content="http://www.uiitkoders.appspot.com/" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="UIITKoders-an educational and non-commercial programming community at 
+					University Institute of 
+					Information Technology, Himachal Pradesh University Shimla.
+					Title-Partners- CodeChef and HackerRank |
+					Learning Partners- CodePlaza |
+					UIITKoders is now the largest programming community in Himachal Pradesh |
+ 					Join us under our various 
+					initiatives and strengthen us." />
+	<link rel="stylesheet" type="text/css" href="/static/styles/profile.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+</head>
+<body style="">
+	<img id="" src="/static/images/uiitkoders_hpulogo.png" alt="UIITKoders" style="display:none;"><!-- added for image on link upload-->
+	<div id="profile_header"><!-- header menu started -->
+		<div id="header_menu">
+			<table style="">
+				<tr>
+					<td><a href="http://www.hpuniv.in/" target="blank">About HPU</a>
+					</td>
+					<td><a href="http://www.hpuiitshimla.org/" target="blank">UIIT</a>
+					</td>
+					<td><a href="/" target="blank">UIITKODERS</a>
+					</td>
+				</tr>
+			</table>
+		</div>		
+	</div><!-- header menu closed -->
+	<div id="profile_footer" style=""><!-- footer started -->
+		<div id="footer_content" style="" class="aclass">
+			<table style="">
+				<tr>
+					<td>
+						Home<br>
+						<a href="#home" style="">
+						<img class="photo" src="/static/profile/menu_home11.png" style="">
+						</a>
+					</td>
+					<td>
+						Academia<br>
+						<a href="#academics">
+						<img class="photo" src="/static/profile/menu_aca11.png">
+						</a>
+					</td>
+					<td>
+						Skills<br>
+						<a href="#skills">
+						<img class="photo" src="/static/profile/menu_skills11.png">
+						</a>
+					</td>
+					<td>
+						Projects<br>
+						<a href="#projects">
+						<img class="photo" src="/static/profile/menu_projects11.png">
+						</a>
+					</td>
+					<td>
+						Achievements<br>
+						<a href="#achievements">
+						<img class="photo" src="/static/profile/menu_awards11.png">
+						</a>
+					</td>
+					<td>
+						Contact<br>
+						<a href="#contacts">
+						<img class="photo" src="/static/profile/menu_mail11.png">
+						</a>
+					</td>
+				</tr>
+			</table>
+		</div><!--footer content closed -->
+	</div><!-- profile footer closed -->
+	<div id="profile_body_home" style=""><!--body shown started-->
+		<div id="content" style=""><!--content-started-->
+			<div id="home" style=""><!--home-started-->
+				<div id="left"><!-- home left started-->
+					<div id="top"><!--left top div started -->
+						<table id="table1" style="">							
+							<tr>
+								<td style="">
+								<img class="icon_img" src="/static/images/uiitkoders_kunal.jpg" alt="kunal">
+								</td>
+							</tr>
+						</table>
+						<table id="table2" style="">	
+							<tr>
+								<td style="font-size:200%;font-weight:bold;color:#000;">Kunal Sharma
+								</td>
+							</tr>
+							<tr>
+								<td style="font-size:100%;font-weight:bold;color:#fff;">
+								Founder and Representative, UIITKODERS, <br>
+								Student Final Year, B.Tech(I.T), 
+								Batch 2010-14, <br> UIIT, HP University Shimla
+								</td>
+							</tr>
+					</table>
+					</div><!--top div closed -->
+					<div id="middle" align="justify"><!--middle div started -->
+						<table id="" style=""><!--table started -->
+							<tr>
+								<td style="">
+								An Academic Scholar who enjoys every bit of software programming and development, take
+								challenges in understanding any software system, building sophisticated systems, 									working on innovative technologies and has efficient management skills.
+								</td>
+							</tr>
+						</table>
+					</div><!--middle div closed -->
+					<div id="bottom" style="">
+					<!--bottom div started -->
+						<table id="header" style="">
+						<!--bottom table started -->
+							<tr>
+								<td style="color:#fff;font-weight:bold;">
+								My Inspirations
+								</td>
+							</tr>
+						</table>
+						<table class="lower" style="">
+							<tr>
+								<td style="">
+								<a href="http://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"
+									style="text-decoration:none;" target="blank">
+								<img class="icon_img" src="/static/profile/kalam4.jpg" alt="Dr.Kalam">
+								</a>
+								</td>
+							</tr>
+							<tr>
+								<td style="font-size:90%;">Dr. APJ Abdul Kalam<br> ex-President, India
+								</td>
+							</tr>
+						</table>
+						<table class="lower" style="">
+							<!--middle table started -->
+							<tr>
+								<td style="">
+								<a href="http://en.wikipedia.org/wiki/Virbhadra_Singh"
+									style="text-decoration:none;" target="blank">
+								<img class="icon_img" src="/static/profile/virbhadra.jpg" alt="VirBhadraSingh">
+								</a>
+								</td>
+							</tr>
+							<tr>
+								<td style="font-size:90%;">
+								Mr. Vir Bhadra Singh<br> CM, H.P.
+								</td>
+							</tr>
+						</table>
+						<table class="lower" style="">
+							<!--right table started -->
+							<tr>
+								<td style="">
+								<a href="http://en.wikipedia.org/wiki/Bhavin_Turakhia"
+									style="text-decoration:none;" target="blank">
+								<img class="icon_img" src="/static/profile/bhavin_turakhia2.jpg" alt="Bhavin">
+								</a>
+								</td>
+							</tr>
+							<tr>
+								<td style="font-size:90%;">
+								Mr. Bhavin Turakhia<br> Co-founder, Directi
+								</td>
+							</tr>
+						</table>
+					</div><!--bottom table closed -->
+				</div><!-- home left closed-->
+				<div id="right"><!-- home right started-->
+					<div id="right_top"><!-- image slider started-->
+							<img id="slider_img" src="/static/gallery/uiitkoders2.jpg" alt="Kunal" class="is_showing">
+							<img id="slider_img" src="/static/gallery/kunal2.jpg" alt="Kunal">
+							<img id="slider_img" src="/static/gallery/uiitkoders5.jpg" alt="Kunal">
+							<img id="slider_img" src="/static/gallery/kunal1.jpg" alt="Kunal">
+							<img id="slider_img" src="/static/gallery/uiitkoders7.jpg" alt="Kunal">
+					</div><!-- image slider closed-->
+<!-------------------------------------------------------------->
+<script type="text/javascript">
+$(document).ready(function(){
+	slideShow();
+});
+function slideShow(){
+	var showing=$("#right_top .is_showing");
+	var next=showing.next().length ? showing.next() : showing.parent().children(":first");
+/*	if(showing.next().length){showing.next();}
+	else{next=showing.parent().children(":first");}*/
+	showing.fadeOut(600, function(){next.fadeIn(600).addClass("is_showing");}).removeClass("is_showing");
+	setTimeout(slideShow, 4000);
+}
+</script>
+<!-------------------------------------------------------------->
+					<div id="right_bottom" style="">
+						<div id="strengths" style="">STRENGTHS
+						</div>
+						<ul>	
+							<li style="">Intrinsic Programmer and Tech Incisiveness</li>
+							<li>Keen interest in Data Structures and Algorithms</li>
+							<li>Open Source Developer and Enthuasiast</li>
+							<li>Strategic Planner & Analyst</li>
+							<li>Regular participant in online Programming Competitions</li>
+							<li>Excellent Interpersonal, Communication, Leadership and Organizational skills</li>
+							<li>Languages - English and Hindi</li>
+						</ul>
+					</div>
+				</div><!-- home right closed-->
+			</div><!--home-closed-->
+		</div><!--content-closed-->
+	</div><!-- body shown closed-->
+	<div id="profile_body_academics" style=""><!--body shown started-->
+		<div id="content" style=""><!--content-started-->
+			<div id="academics" style=""><!--education-started-->
+				<table style="width:100%;margin-left:auto;margin-right:auto;text-align:center;color:#002459;">
+					<tr>
+						<td style="width:20%;">Academia<br>
+							<img class="aca_top_img" src="/static/profile/aca_menu_study.png" alt="kunal">
+						</td>
+						<td>Admissions<br>
+							<img class="aca_top_img" src="/static/profile/aca_menu_adm.png" alt="kunal">
+						</td>
+						<td>Campus Life<br>
+							<img class="aca_top_img" src="/static/profile/aca_menu_life.png" alt="kunal">
+						</td>
+						<td>Library<br>
+							<img class="aca_top_img" src="/static/profile/aca_menu_lib.png" alt="kunal">
+						</td>
+					</tr>
+				</table>
+				<div id="roles" style="background:#e7c700;">
+					Academia
+				</div>
+				<table style="width:100%;color:#002459;">
+					<tr style="font-size:110%;font-weight:bold;">
+						<td style="width:10%;">Year</td>
+						<td style="width:20%;">Qualification</td>
+						<td style="width:10%;">Percentage</td>
+						<td style="width:40%;">Institute</td>
+						<td style="width:20%;">Board/University</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2013</td>
+						<td style="width:20%;">B. Tech (I.T), 3rd Year</td>
+						<td style="width:10%;">80.58%</td>
+						<td style="width:40%;">University Institute of Information Technology, Shimla</td>
+						<td style="width:20%;">HP University</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2009</td>
+						<td style="width:20%;">10+2 (Non-Medical Science)</td>
+						<td style="width:10%;">89.40</td>
+						<td style="width:40%;">Gurukul Public School, Hamirpur</td>
+						<td style="width:20%;">H.P.B.O.S.E Dharamsala</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2008</td>
+						<td style="width:20%;">10+1 (Non-Medical Science)</td>
+						<td style="width:10%;">83.2</td>
+						<td style="width:40%;">Gurukul Public School, Hamirpur</td>
+						<td style="width:20%;">H.P.B.O.S.E Dharamsala</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2007</td>
+						<td style="width:20%;">10</td>
+						<td style="width:10%;">71</td>
+						<td style="width:40%;">Govt. Sen. Sec. School, Baldwara</td>
+						<td style="width:20%;">H.P.B.O.S.E Dharamsala</td>
+					</tr>
+				</table>
+				<div id="roles" style="background:#e7c700;">
+					Major Campus Roles
+				</div>
+				<table style="width:100%;color:#002459;">
+					<tr style="font-size:110%;font-weight:bold;">
+						<td style="width:10%;">Session</td>
+						<td style="width:20%;">Role</td>
+						<td style="width:40%;">Institute</td>
+						<td style="width:30%;">Description</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2012-13</td>
+						<td style="width:20%;">Training Representative</td>
+						<td style="width:10%;">University Institute of Information Technology, Shimla</td>
+						<td style="width:40%;">To represent UIIT Shimla for Industrial Training related Activities</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2008-09</td>
+						<td style="width:20%;">Head, Student Discipline Committee</td>
+						<td style="width:10%;">Gurukul Public School, Hamirpur</td>
+						<td style="width:40%;">To assist School Management for disciplinary activities</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2006-07</td>
+						<td style="width:20%;">House Captain</td>
+						<td style="width:10%;">Govt. Sen. Sec. School, Baldwara</td>
+						<td style="width:40%;">To organize various events in the school on the behalf of House</td>
+					</tr>
+					<tr>
+						<td style="width:10%;">2004-05</td>
+						<td style="width:20%;">School Representative</td>
+						<td style="width:10%;">Govt. Middle School, Nagrota, Baldwara</td>
+						<td style="width:40%;">To represent school and organize events inside and outside the school</td>
+					</tr>
+				</table>
+			</div><!--education-closed-->
+		</div><!--content-closed-->
+	</div><!-- body shown closed-->
+	<div id="profile_body_skills" style=""><!--body shown started  ff8a30-->
+		<div id="content" style=""><!--content-started-->
+			<div id="skills"><!--skills-started-->
+				<div id="roles" style="color:#fff;font-size:200%;">
+					Technical Skills
+				</div>
+				<div id="left"><!--skills left-started-->
+				<table id="title" style=""><!-- computer languages started-->
+					<tr style="">
+						<td style="">COMPUTER LANGUAGES</td>
+					</tr>
+				</table>
+				<table style="width:100%;color:#002459;overflow:hidden;">
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="">
+						<div id="text_div" style="">C</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div" style="width:90%;"><!--fill div-->
+							<span style="float:right;">90%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">CPP</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:75%;"><!--fill div-->
+							<span style="float:right;">75%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">Python</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:80%;"><!--fill div-->
+							<span style="float:right;">80%</span>    </div>
+						</div>
+						</td>
+					</tr>
+				</table><!-- computer languages closed-->
+				<!-- web development started-->
+				<table id="title" style="">
+					<tr style="">
+						<td style="">WEB DEVELOPMENT</td>
+					</tr>
+				</table>
+				<table style="width:100%;color:#002459;overflow:hidden;">
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="">
+						<div id="text_div" style="">HTML</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div" style="width:95%;"><!--fill div-->
+							<span style="float:right;">95%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">CSS</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:95%;"><!--fill div-->
+							<span style="float:right;">95%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">JScript</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:80%;"><!--fill div-->
+							<span style="float:right;">80%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">JQuery</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:60%;"><!--fill div-->
+							<span style="float:right;">60%</span>    </div>
+						</div>
+						</td>
+					</tr>
+				</table><!-- web development closed-->
+				<table id="title" style=""><!-- Cloud started-->
+					<tr style="">
+						<td style="">CLOUD PLATFORM</td>
+					</tr>
+				</table>
+				<table style="width:100%;color:#002459;overflow:hidden;">
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="">
+						<div id="text_div" style="">GAE</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div" style="width:75%;"><!--fill div-->
+							<span style="float:right;">Google App Engine: 75%</span>    </div>
+						</div>
+						</td>
+					</tr>
+				</table><!-- web development closed-->
+				</div><!--skills left-closed-->
+				<div id="right"><!--skills right-started-->
+				<table id="title" style=""><!-- Cloud started-->
+					<tr style="">
+						<td style="">TOOLS</td>
+					</tr>
+				</table>
+				<table style="width:100%;color:#002459;overflow:hidden;">
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="">
+						<div id="text_div" style="">GIT</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div" style="width:75%;"><!--fill div-->
+							<span style="float:right;">75%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">GDB</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:90%;"><!--fill div-->
+							<span style="float:right;">90%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">Vi</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:85%;"><!--fill div-->
+							<span style="float:right;">85%</span>    </div>
+						</div>
+						</td>
+					</tr>
+				</table><!-- web development closed-->
+				<table id="title" style=""><!-- Cloud started-->
+					<tr style="">
+						<td style="">OTHERS</td>
+					</tr>
+				</table>
+				<table style="width:100%;color:#002459;overflow:hidden;">
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="">
+						<div id="text_div" style="">DS</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div" style="width:85%;"><!--fill div-->
+							<span style="float:right;">Data Structures: 85%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div" style="">Linux</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div" style="width:85%;"><!--fill div-->
+							<span style="float:right;">BASH Scripts: 85%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">CN</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:85%;"><!--fill div-->
+							<span style="float:right;">Computer Networking: 85%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">OS</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:85%;"><!--fill div-->
+							<span style="float:right;">Operating System: 85%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">SAD</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:90%;"><!--fill div-->
+							<span style="float:right;">System Analysis & Design: 90%</span>    </div>
+						</div>
+						</td>
+					</tr>
+					<tr style="color:#fff;font-weight:bold;">
+						<td style="padding-top:10px;">
+						<div id="text_div"  style="">RDBMS</div><!--text div-->
+						<div id="container_div" style=""><!--container div-->
+							<div id="fill_div"  style="width:90%;"><!--fill div-->
+							<span style="float:right;">Relational DBMS: 90%</span>    </div>
+						</div>
+						</td>
+					</tr>
+				</table><!-- web development closed-->
+				</div><!--skills right-closed-->
+			</div><!--skills-closed-->
+		</div><!--content-closed-->
+	</div><!-- body shown closed-->
+	<div id="profile_body_projects" style=""><!--body shown started-->
+		<div id="content" style=""><!--content-started-->
+			<div id="projects"><!--projects-started-->
+				<div id="roles" style="color:#fff;font-size:200%;">
+					Projects
+				</div>
+				<div id="left"><!--projects left-started-->
+					<div id="project_box"><!--project1 started-->
+						<div id="title">
+							UBUNTU STYLE CALENDAR
+						</div>
+						<div id="image">
+							<img src="/static/app_images/calendar4.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>C, Linux
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Simple, Interactive, Garphical and can move to any date 
+							specified by its user.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+						</div>
+					</div><!-- project1 closed-->
+					<div id="project_box"><!--project2 started-->
+						<div id="title">
+							MASTERMINDS GAME
+						</div>
+						<div id="image">
+							<img src="/static/app_images/master2.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>Python
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Simple, Interactive and Garphical
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+						</div>
+					</div><!-- project2 closed-->
+					<div id="project_box"><!--project3 started-->
+						<div id="title">
+							UIITKODERS' WEBSITE
+						</div>
+						<div id="image">
+							<img src="/static/app_images/uiitkoder101.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>Google App Engine, Python
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Static website uses design technologies HTML, CSS, JScript and JQuery
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+							<a href="http://uiitkoders.appspot.com/" target="blank">Visit UIITKODERS</a>
+						</div>
+					</div><!-- project3 closed-->
+				</div><!--projects left-closed-->
+				<div id="middle"><!--projects middle-started-->
+					<div id="project_box"><!--project1 started-->
+						<div id="title">
+							SNAKE GAME
+						</div>
+						<div id="image">
+							<img src="/static/app_images/snake1.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>C, LINUX
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Two Level, fully interactive and graphical support using escape sequences.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+						</div>
+					</div><!-- project1 closed-->
+					<div id="project_box"><!--project2 started-->
+						<div id="title">
+							GOOGLE SEARCH BOX
+						</div>
+						<div id="image">
+							<img src="/static/app_images/google1.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>Google App Engine, Python
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Customized Google Search Box implemented using various web-technologies.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+							<a href="http://my-py-apps.appspot.com/" target="blank">Visit App</a>
+						</div>
+					</div><!-- project2 closed-->
+					<div id="project_box"><!--project3 started-->
+						<div id="title">
+							TnP CELL WEBSITE
+						</div>
+						<div id="image">
+							<img src="/static/app_images/tnp1.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>Google App Engine, Python
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>TnP Cell UIIT Website using various web-technologies.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+							<a href="http://tnpuiit.appspot.com/" target="blank">Visit website</a>
+						</div>
+					</div><!-- project3 closed-->
+				</div><!--projects middle-closed-->
+				<div id="right"><!--projects right-started-->
+					<div id="project_box"><!--project1 started-->
+						<div id="title">
+							TIC-TAC-TOE
+						</div>
+						<div id="image">
+							<img src="/static/app_images/tic6.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>C, LINUX
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Single & MultiPlayer support, AI based, Interactive and Graphical.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+						</div>
+					</div><!-- project1 closed-->
+					<div id="project_box"><!--project2 started-->
+						<div id="title">
+							STARTLING-APPS WEBSITE
+						</div>
+						<div id="image">
+							<img src="/static/app_images/startling1.png" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>Google App Engine, Python
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Web Crawler, Dictionary, Weather Forecast (using API) and QBing.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+							<a href="http://startlingapps.appspot.com/" target="blank">Visit Site</a>
+						</div>
+					</div><!-- project2 closed-->
+					<div id="project_box"><!--project3 started-->
+						<div id="title">
+							LAB MANAGEMENT SYSTEM
+						</div>
+						<div id="image">
+							<img src="/static/app_images/lab1.jpg" style="">
+						</div>
+						<div id="technologies">
+							<span>Technologies: </span>System Analysis and Design
+						</div>
+						<div id="description" align="justify">
+							<span>Description: </span>Exisiting Computer Laoratory Management System 
+							was analyzed and new proposed.
+						</div>
+						<div id="links">
+							<a href="javascript:void(0);">@GitHub</a>
+						</div>
+					</div><!-- project3 closed-->
+				</div><!--projects right-closed-->
+			</div><!--projects-closed-->
+		</div><!--content-closed-->
+	</div><!-- body shown closed-->
+	<div id="profile_body_achievements" style=""><!--body shown started-->
+		<div id="content" style=""><!--content-started-->
+			<div id="achievements"><!--awardds-started-->
+				<table style="width:100%;margin-left:auto;margin-right:auto;text-align:center;color:#fff;">
+					<tr>
+						<td style="width:20%;">
+							<img class="aca_top_img" src="/static/profile/profile_awards1.png" alt="kunal">
+						</td>
+						<td style="width:20%;">
+							<img class="aca_top_img" src="/static/profile/profile_awards2.png" alt="kunal">
+						</td>
+						<td style="width:20%;">
+							<img class="aca_top_img" src="/static/profile/profile_education3.png" alt="kunal">
+						</td>
+						<td style="width:20%;">
+							<img class="aca_top_img" src="/static/profile/profile_awards4.png" alt="kunal">
+						</td>
+						<td style="width:20%;">
+							<img class="aca_top_img" src="/static/profile/profile_awards6.png" alt="kunal">
+						</td>
+					</tr>
+				</table>
+				<div id="roles" style="color:#fff;font-size:200%;">
+					Achievements
+				</div>
+				<div id="left"><!--achievements left-started-->
+					<div id="show_box" style="">
+					<!-- showing box started-->
+						<div id="title" style="">
+							Technical Achievements
+						</div>
+						<ul>
+							<li>Founder and Campus Representative UIITKODERS</li>
+							<li>Campus Representative CodeChef</li>
+							<li>Campus Representative HackerRank</li>
+						<ul>
+					</div><!-- showing box closed-->
+					<div id="show_box" style="">
+					<!-- showing box started-->
+						<div id="title" style="">
+							Managerial and Incampus Achievements
+						</div>
+						<ul>
+							<li>Training Representative, UIIT Shimla (2012-13)</li>
+							<li>Member Event Management Team, UTKARSH 2010 </li>
+							<li>Campus Ambassador AMCAT and ITSL </li>
+							<li>Best House Award at GSSS Baldwara </li>
+						<ul>
+					</div><!-- showing box closed-->
+				</div><!--achievements left-closed-->
+				<div id="right"><!--achievements right-started-->
+					<div id="show_box" style="">
+					<!-- showing box started-->
+						<div id="title" style="">
+							Educational Achievements
+						</div>
+						<ul>
+							<li>19th State Rank in 10+2 Science (2009)</li>
+							<li>Topper 3rd Sem. (Dec. 2011), UIIT Shimla (2010-14)</li>
+							<li>Best Student Award at GPS Hamirpur for 2008-09 </li>
+						<ul>
+					</div><!-- showing box closed-->
+					<div id="show_box" style="">
+					<!-- showing box started-->
+						<div id="title" style="">
+							Cultural and Social Achievements
+						</div>
+						<ul>
+							<li>Best Drama Award at UTKARSH 2010</li>
+							<li>Best Drama Award at ISDC Hamirpur 2008</li>
+							<li>Member Jai Mata Shyamakali Temple Development and Maintenance Committee, Math, Mandi</li>
+						<ul>
+					</div><!-- showing box closed-->
+				</div><!--achievements right-closed-->
+			</div><!--awards-closed-->
+		</div><!--content-closed-->
+	</div><!-- body shown closed-->
+	<div id="profile_body_contacts" style=""><!--body shown started-->
+		<div id="content" style=""><!--content-started-->
+			<div id="contacts"><!--contact-started-->
+				<div id="roles" style="color:#fff;font-size:200%;">
+					Contact Me
+				</div>
+				<div class="wrapper" style="overflow:hidden;margin-bottom:20px;">
+				<div id="left"><!-- div left started  0077b3  00b1f3-->			
+					<div id="contact_box">
+						<div id="container" style="">
+							<div id="left">Name
+							</div>
+							<div id="right">Kunal Sharma
+							</div>
+						</div>
+						<div id="container">
+							<div id="left">Address
+							</div>
+							<div id="right">
+							S/O Sh. Jeewan Lal Sharma,<br> Vill. Math, P.O. Baldwara, <br>
+							Teh. Sarkaghat, Dist. Mandi, <br>Himachal Pradesh, India
+							</div>
+						</div>
+						<div id="container">
+							<div id="left">Email
+							</div>
+							<div id="right">
+							kunaluiit@hotmail.com
+							</div>
+						</div>
+						<div id="container">
+							<div id="left">Phone
+							</div>
+							<div id="right">
+							+91-88944-05504
+							</div>
+						</div>
+					</div>
+				</div><!-- div left closed-->
+				<div id="right"><!-- div right started  0077b3  00b1f3-->			
+					<div id="contact_box">
+						<div id="container" style="">
+							<div id="left">
+							<a href="https://www.facebook.com/kunal.sharma.315865" target="blank" title="@Facebook">
+							<img src="/static/profile/profile_facebook11.png">
+							</a>
+							</div>
+							<div id="right">
+							<a href="https://twitter.com/kunal_prompt" target="blank" title="@Twitter">
+							<img src="/static/profile/profile_twitter11.png">
+							</a>
+							</div>
+						</div>
+						<div id="container" style="">
+							<div id="left">
+							<a href="https://plus.google.com/u/0/115514578697470628479/" target="blank" title="@Google+">
+							<img src="/static/profile/profile_google11.png">
+							</a>
+							</div>
+							<div id="right">
+							<a href="http://www.linkedin.com/pub/kunal-sharma/3a/668/416"
+								 target="blank" title="@LinkedIn">
+							<img src="/static/profile/profile_linkedin11.png">
+							</a>
+							</div>
+						</div>
+					</div>
+				</div><!-- div right closed-->
+				</div><!-- div wapper closed -->
+				<div id="roles" style="color:#fff;font-size:120%;">
+					All the information given above is fully is true and correct to the best of my knowledge.<br>
+
+					&copy;2013; All rights reserved with Kunal Sharma, Campus Representative UIITKoders
+				</div>
+			</div><!--contact-closed-->
+		</div><!--content-closed-->
+	</div><!-- body shown closed-->
+<script>
+$(document).ready(function(){
+
+$("a[href='#home']").click(function() {
+	$("html, body").animate({ scrollTop: 0 }, 1500);
+  return false;
+});
+$("a[href='#academics']").click(function() {
+  $("html, body").animate({ scrollTop: $("#profile_body_academics").offset().top  }, 1500);
+  return false;
+});
+$("a[href='#skills']").click(function() {
+  $("html, body").animate({ scrollTop: $("#profile_body_skills").offset().top  }, 1500);
+  return false;
+});
+$("a[href='#projects']").click(function() {
+  $("html, body").animate({ scrollTop: $("#profile_body_projects").offset().top  }, 1500);
+  return false;
+});
+$("a[href='#achievements']").click(function() {
+  $("html, body").animate({ scrollTop: $("#profile_body_achievements").offset().top  }, 1500);
+  return false;
+});
+$("a[href='#contacts']").click(function() {
+  $("html, body").animate({ scrollTop: $("#profile_body_contacts").offset().top }, 1500);
+  return false;
+});
+
+$('.photo').hover(function() {//for menu hover
+	var a = 360;//Math.random() * 360 - 180;
+	$(this).css('transform', 'rotate(' + a + 'deg) scale(1.40)');}, function() {
+	$(this).css('transform', 'none');}
+);
+});
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
